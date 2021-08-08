@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amh-sample/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/amh-sample/static/js/main.4f04e599.chunk.js",
+    "main.js.map": "/amh-sample/static/js/main.4f04e599.chunk.js.map",
+    "runtime-main.js": "/amh-sample/static/js/runtime-main.4a2028bd.js",
+    "runtime-main.js.map": "/amh-sample/static/js/runtime-main.4a2028bd.js.map",
+    "static/css/2.de3252e1.chunk.css": "/amh-sample/static/css/2.de3252e1.chunk.css",
+    "static/js/2.f2aca3f1.chunk.js": "/amh-sample/static/js/2.f2aca3f1.chunk.js",
+    "static/js/2.f2aca3f1.chunk.js.map": "/amh-sample/static/js/2.f2aca3f1.chunk.js.map",
+    "static/js/3.78eddd6c.chunk.js": "/amh-sample/static/js/3.78eddd6c.chunk.js",
+    "static/js/3.78eddd6c.chunk.js.map": "/amh-sample/static/js/3.78eddd6c.chunk.js.map",
+    "index.html": "/amh-sample/index.html",
+    "static/css/2.de3252e1.chunk.css.map": "/amh-sample/static/css/2.de3252e1.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/amh-sample/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f2aca3f1.chunk.js.LICENSE.txt": "/amh-sample/static/js/2.f2aca3f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2028bd.js",
+    "static/css/2.de3252e1.chunk.css",
+    "static/js/2.f2aca3f1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4f04e599.chunk.js"
+  ]
+}
